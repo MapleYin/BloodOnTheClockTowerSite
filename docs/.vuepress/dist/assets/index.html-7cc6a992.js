@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"Blood on the Clock Tower","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1672890586000,"contributors":[{"name":"Maple Yin","email":"i@maple.im","commits":2}]},"filePathRelative":"README.md"}');export{e as data};
