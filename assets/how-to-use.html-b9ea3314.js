@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-f9176ac2","path":"/zh/how-to-use.html","title":"如何使用","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1672903652000,"contributors":[{"name":"Maple Yin","email":"i@maple.im","commits":1}]},"filePathRelative":"zh/how-to-use.md"}');export{t as data};
